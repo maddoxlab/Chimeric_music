@@ -7,6 +7,15 @@ The data used in this study can be found on [OpenNeuro.org](https://openneuro.or
 
 The code has been organized into the following functional categories:
 
+### stimuli/
+- midi files of stimuli used in this project:
+  - `original_music` 
+  - `chimeric_music`
+
+### regressors/
+- `downbeat_reg.plk` - downbeat TRF analysis regressors
+- `music_exp_reg` - melodic expectation TRF anlaysis regressors
+
 ### eeg_analysis/
 **EEG Signal Processing & Analysis**
 - `ICA_eyemovement.py` - Independent Component Analysis for eye movement artifact removal
