@@ -11,6 +11,7 @@ The code has been organized into the following functional categories:
 - midi files of stimuli used in this project:
   - `original_music` 
   - `chimeric_music`
+  - The `.wav` format stimuli can be found at google drive folder [here](https://drive.google.com/drive/folders/1ErNUimO51xBkUFcoPfwKBs4xBWWkUTVZ?usp=sharing)
 
 ### regressors/
 - `downbeat_reg.plk` - downbeat TRF analysis regressors
